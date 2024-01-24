@@ -1,0 +1,11 @@
+{
+  "type": "record",
+  "name": "my_record",
+  "fields": [
+    {"name": "Id", "type": "integer"},
+    {"name": "Name", "type": "string"},
+    {"name": "Surname", "type": "string"},
+    {"name": "Age", "type": "integer"},
+    {"name": "Sex", "type": "char"}
+  ]
+}
